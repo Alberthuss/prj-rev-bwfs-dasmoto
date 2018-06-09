@@ -1,0 +1,32 @@
+#title {
+  color: khaki;
+  font-family: "Helvetica",sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("./images/pattern.jpeg");
+}
+
+h2 {
+  color: white;
+  font-family: "Helvetica",sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#section-brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#section-frames h2 {
+  background-color: lightcoral;
+}
+#section-paint h2 {
+  background-color: skyblue;
+}
+
+strong {
+  color: blue;
+  font-family: "Helvetica",sans-serif;
+  font-weight: bold;
+}
